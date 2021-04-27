@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bucharest Link Metro</string>
+    <string name="string_romanianflag">\@string/RomanianFlag</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
